@@ -1,4 +1,4 @@
-module dockerip
+module github.com/Remeski/coredns_dockerip
 
 go 1.23.2
 
